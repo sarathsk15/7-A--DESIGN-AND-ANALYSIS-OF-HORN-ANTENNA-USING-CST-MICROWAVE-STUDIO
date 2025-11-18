@@ -19,7 +19,7 @@ L=horn length
 
 **δ=0.17λ,L=160 mm.**
 
-
+.
 sing
  
 U a	L  2 we get a=110 mm for both E and H plane.
